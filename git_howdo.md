@@ -73,3 +73,8 @@ git branch
 ```sh
 git checkout <имя_ветки>
 ```
+
+# Создание новой ветки
+```sh
+git branch <branch_name>
+```

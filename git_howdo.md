@@ -65,3 +65,7 @@ git diff
 ```sh
 git restore <file_name>
 ```
+Отображение всех веток
+```sh
+git branch
+```

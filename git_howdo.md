@@ -65,3 +65,8 @@ git diff
 ```sh
 git restore <file_name>
 ```
+
+Перемещение по веткам
+```sh
+git checkout <branch_name>
+```

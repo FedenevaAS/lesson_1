@@ -69,3 +69,7 @@ git restore <file_name>
 ```sh
 git branch
 ```
+Перемещение по веткам 
+```sh
+git checkout <имя ветки>
+```

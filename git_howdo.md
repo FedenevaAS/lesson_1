@@ -65,8 +65,11 @@ git diff
 ```sh
 git restore <file_name>
 ```
-
-Перемещение по веткам
+# Отображение всех веток
 ```sh
-git checkout <branch_name>
+git branch
+```
+# Перемещение по веткам 
+```sh
+git checkout <имя_ветки>
 ```
